@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReceiveWorkLifeBalance</string>
+    <string name="recent_data">최신 메세지</string>
+    <string name="no_data">없음</string>
+    <string name="channel_name">SMS_CHANNEL</string>
+    <string name="channel_description">sms 정보를 전달합니다</string>
+</resources>
